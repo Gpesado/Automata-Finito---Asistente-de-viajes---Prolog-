@@ -1,0 +1,2 @@
+# Automata-Finito---Asistente-de-viajes---Prolog-
+TP correspondiente a la materia Teoria de la computacion dictada en la Universidad Nacional General Sarmiento. Por un lado un sistema que emula un automata finito deterministico especificado en el informe y por el otro un asistente de viajes que recomienda lugares a donde ir siguiendo preferencias pasadas por parametro y calculando el gasto total del viaje
